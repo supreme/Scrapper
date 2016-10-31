@@ -2,6 +2,7 @@
 Scrapes the web for hip hop single and album releases.
 
 # Example Output
+```
 January 1  - Releases:  1
 --------------------------
 Boosie Badazz  -  In My Feelings. (Goin' Thru It)
@@ -356,3 +357,4 @@ Journalist 103  -  Battle of the Hearts and Minds
 Meek Mill  -  DC4
 Mickey Factz & Nottz  -  The Achievement: circa '82
 Vinnie Paz  -  The Cornerstone of the Corner Store
+```
